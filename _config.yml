@@ -1,0 +1,7 @@
+title: My Gallery
+markdown: kramdown
+theme: minima
+
+minima:
+  custom_css:
+    - assets/style.css

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 我的图墙
 
 ![图1](https://your-cloud-image1.jpg)
