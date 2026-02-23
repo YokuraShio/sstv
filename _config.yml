@@ -4,4 +4,4 @@ theme: minima
 
 minima:
   custom_css:
-    - assets/style.css
+    - assets/main.scss
