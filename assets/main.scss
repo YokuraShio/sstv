@@ -1,11 +1,14 @@
+---
+---
+
 @import "minima";
 
-/* 渐变背景 */
+/* 强制覆盖背景 */
 body {
-    background: linear-gradient(
-        90deg,
-        #ffe4f2 0%,
-        #f0f8ff 50%,
-        #dbeeff 100%
+  background: linear-gradient(
+      90deg,
+      #ffe4f2 0%,
+      #f0f8ff 50%,
+      #dbeeff 100%
     ) !important;
 }
